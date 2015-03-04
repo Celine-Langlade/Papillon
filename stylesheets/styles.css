@@ -10,10 +10,11 @@ h1 {
 	color: black;
 }
 h3 {
-		font-family: Verdana;
+	font-family: Verdana;
 	font-weight: bold;
-	text-align: center;
 	color: black;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 }
 p {	font-family: Arial;
