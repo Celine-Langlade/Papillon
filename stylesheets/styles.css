@@ -9,7 +9,16 @@ h1 {
 	padding-bottom: 25px;
 	color: black;
 }
-p {	font-family: Verdana;
+h3 {
+		font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+}
+}
+p {	font-family: Arial;
 	text-align: center;
 	padding-top: 25px;
 	padding-bottom: 25px;
