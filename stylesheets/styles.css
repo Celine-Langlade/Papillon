@@ -13,7 +13,8 @@ body {
 	margin-top: -20px;
 }
 
-#name p{	font-family: Verdana;
+#name p h1{
+	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 25px;
