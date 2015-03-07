@@ -2,7 +2,7 @@ body {
 	background-color: #efebdc
 }
 #header {
-	position: fixed;
+	position: relative;
 	width: 97.5%;
 	margin-top: -20px;
 	height: 80px;
