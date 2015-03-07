@@ -36,11 +36,6 @@ li {
 float:right;
 }
 
-img {
-	width: 50%;
-	height: 50%;
-}
-
 .align_image img {
   vertical-align: middle;
   display: inline-block;
