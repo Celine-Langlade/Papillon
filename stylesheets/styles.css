@@ -41,7 +41,6 @@ div {
 }
 
 #header {
-	z-index: 1;
 	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
