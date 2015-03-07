@@ -11,18 +11,16 @@ body {
 	clear: both;
 	width: 97.5%;
 	margin-top: -20px;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
-	top: -10px;
 }
-h1 {
-	font-family: Verdana;
+
+#name {	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	color: black;
 	text-decoration: underline;
+	
 }
 h3 {
 	font-family: Verdana;
