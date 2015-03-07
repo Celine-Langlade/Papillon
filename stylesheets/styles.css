@@ -47,6 +47,9 @@ div {
 	height: 80px;
 	background-color: #668284;
 	margin-bottom: 30px;
+	clear: both;
+	text-align: center;
+	font-family: Verdana, sans-serif;
 }
 
 #footer {
