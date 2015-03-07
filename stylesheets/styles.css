@@ -32,7 +32,6 @@ li {
 	width: 600px;
 	font-family: Verdana;
 }
-img {
-  horizontal-align:top;
+.flotte {
+float:right;
 }
-
