@@ -4,15 +4,6 @@ body {
 div {
 	border-radius: 5px;
 }
-#header {
-	z-index: 1;
-	position: fixed;
-	width: 97.5%;
-	margin-top: -20px;
-	height: 80px;
-	background-color: #668284;
-	margin-bottom: 30px;
-}
 h1 {
 	font-family: Verdana;
 	font-weight: bold;
@@ -47,6 +38,17 @@ li {
 .flotte {
 float:right;
 }
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 80px;
+	background-color: #668284;
+	margin-bottom: 30px;
+}
+
 #footer {
 	position: relative;
 	height: 50px;
