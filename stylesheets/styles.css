@@ -41,3 +41,7 @@ img {
 	height: 50%;
 }
 
+.align_image img {
+  vertical-align: middle;
+  display: inline-block;
+}
