@@ -32,11 +32,7 @@ li {
 	width: 600px;
 	font-family: Verdana;
 }
-.flotte {
-float:right;
+img {
+  vertical-align:top;
 }
 
-.align_image img {
-  vertical-align: middle;
-  display: inline-block;
-}
