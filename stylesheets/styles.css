@@ -11,6 +11,7 @@ body {
 	clear: both;
 	text-align: center;
 	font-family: Verdana, sans-serif;
+	position: fixed;
 }
 h1 {
 	font-family: Verdana;
