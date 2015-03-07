@@ -11,6 +11,9 @@ body {
 	clear: both;
 	width: 97.5%;
 	margin-top: -20px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	top: -10px;
 }
 h1 {
 	font-family: Verdana;
