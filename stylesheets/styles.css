@@ -8,10 +8,9 @@ body {
 	height: 80px;
 	background-color: #668284;
 	margin-bottom: 30px;
-	clear: both;
 	text-align: center;
 	font-family: Verdana, sans-serif;
-	position: fixed;
+	display: inline;
 }
 h1 {
 	font-family: Verdana;
